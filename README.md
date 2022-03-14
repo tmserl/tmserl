@@ -16,4 +16,4 @@ Here are some useful things that you might want to know:
   - React or Next.js
   - TailwindCSS
   - PostgreSQL
-  - JEST (for TDD)
+  - JEST and Cypress (for TDD)
