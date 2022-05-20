@@ -14,6 +14,7 @@ Here are some useful things that you might want to know:
   - Node.js
   - Express.js (for RESTful APIs)
   - React or Next.js
+  - Supabase
   - TailwindCSS
   - PostgreSQL
   - JEST and Cypress (for TDD)
